@@ -30,7 +30,6 @@ project-root/
 │   └── utils.cpp
 │
 ├── README.md
-└── Makefile
 ```
 
 ## Installation
